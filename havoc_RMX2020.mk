@@ -27,9 +27,9 @@ $(call inherit-product, vendor/havoc/config/common_full_phone.mk)
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := havoc_RMX2020
 PRODUCT_DEVICE := RMX2020
-PRODUCT_BRAND := realme
+PRODUCT_BRAND := Realme
 PRODUCT_MODEL := Realme G70 Series
-PRODUCT_MANUFACTURER := realme
+PRODUCT_MANUFACTURER := Realme
 
 TARGET_BOOT_ANIMATION_RES := 720
 
